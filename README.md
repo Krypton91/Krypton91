@@ -58,3 +58,5 @@ I am a Full Stack & Game Developer<img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Krypton91&theme=dark)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krypton91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
