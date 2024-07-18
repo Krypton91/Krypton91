@@ -31,8 +31,6 @@ I am a Full Stack & Game Developer<img src="https://media.giphy.com/media/WUlplc
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I program game exensions for DayZ.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mario-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/mario-rauch-b14b05319/))
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
