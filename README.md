@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/mario-rauch-b14b05319/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC9ogAhzuaee-mEdNtRUJfOAL">
+  <a href="https://www.youtube.com/@Krypton91">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/Krypton91YT">
