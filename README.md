@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
 I am a Full Stack & Game Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Austria.
   
-- :telescope: I’m working as a Junior Software Engineer.
+- :telescope: I’m working as a Senior Software Engineer.
 
 - :seedling: Exploring Technical Content Writing.
 
